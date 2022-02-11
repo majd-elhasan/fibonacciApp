@@ -1,0 +1,15 @@
+D:\Mecid_Files\GitHub\Csharp_projects\fibonacciApp\bin\Debug\net6.0\fibonacciApp.exe
+D:\Mecid_Files\GitHub\Csharp_projects\fibonacciApp\bin\Debug\net6.0\fibonacciApp.deps.json
+D:\Mecid_Files\GitHub\Csharp_projects\fibonacciApp\bin\Debug\net6.0\fibonacciApp.runtimeconfig.json
+D:\Mecid_Files\GitHub\Csharp_projects\fibonacciApp\bin\Debug\net6.0\fibonacciApp.dll
+D:\Mecid_Files\GitHub\Csharp_projects\fibonacciApp\bin\Debug\net6.0\ref\fibonacciApp.dll
+D:\Mecid_Files\GitHub\Csharp_projects\fibonacciApp\bin\Debug\net6.0\fibonacciApp.pdb
+D:\Mecid_Files\GitHub\Csharp_projects\fibonacciApp\obj\Debug\net6.0\fibonacciApp.csproj.AssemblyReference.cache
+D:\Mecid_Files\GitHub\Csharp_projects\fibonacciApp\obj\Debug\net6.0\fibonacciApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mecid_Files\GitHub\Csharp_projects\fibonacciApp\obj\Debug\net6.0\fibonacciApp.AssemblyInfoInputs.cache
+D:\Mecid_Files\GitHub\Csharp_projects\fibonacciApp\obj\Debug\net6.0\fibonacciApp.AssemblyInfo.cs
+D:\Mecid_Files\GitHub\Csharp_projects\fibonacciApp\obj\Debug\net6.0\fibonacciApp.csproj.CoreCompileInputs.cache
+D:\Mecid_Files\GitHub\Csharp_projects\fibonacciApp\obj\Debug\net6.0\fibonacciApp.dll
+D:\Mecid_Files\GitHub\Csharp_projects\fibonacciApp\obj\Debug\net6.0\ref\fibonacciApp.dll
+D:\Mecid_Files\GitHub\Csharp_projects\fibonacciApp\obj\Debug\net6.0\fibonacciApp.pdb
+D:\Mecid_Files\GitHub\Csharp_projects\fibonacciApp\obj\Debug\net6.0\fibonacciApp.genruntimeconfig.cache
